@@ -1,0 +1,14 @@
+19a0ac4daae855f385ee0485f134d56c *DESCRIPTION
+7c9e1241ac6780f8ad7ed2dd80b6c6b6 *LICENSE
+584529cd39c535a1d36d320b29cdc14c *NAMESPACE
+213c70ad99db7c261743f4ececb6c2a3 *R/cluster_plot.R
+057febc2337b5c822cd772ec1a62ebb2 *R/cluster_strings.R
+88207744444c15df81584030e95abd9d *R/data.R
+d4cf796618cec442e808f6980750c596 *README.md
+2c7ebd4154b11e806005788c382aa49e *data/quijote_words.rda
+631faafa8cf469128103173e4c5c2a0e *man/cluster_plot.Rd
+c8ca3cde65b40a0d17a4c749ca9c167e *man/cluster_strings.Rd
+25f07ee08739560c460d9f4b19b32570 *man/figures/README-unnamed-chunk-4-1.png
+ab4ed2cf88fd10de53450f06dc9a2406 *man/figures/README-unnamed-chunk-6-1.png
+a3a0d6e1259eac05acec5bebcb91c55d *man/figures/quijote800.png
+4a9cafa3ee93934f98042087e6ee3535 *man/quijote_words.Rd
